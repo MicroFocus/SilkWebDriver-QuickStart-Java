@@ -33,7 +33,7 @@ Scripts provided by Micro Focus are licensed under the [MIT license](LICENSE).
 ## Contribution
 You want to contribute to our sample scripts? Great!
 
-Sample scrips may be contributed after signing the [Micro Focus Individual Contributor License Agreement 1.0](Open Source Contribution Agreement 1.0.pdf).
+Sample scrips may be contributed after signing the [Micro Focus Individual Contributor License Agreement 1.0](../blob/master/Open Source Contribution Agreement 1.0.pdf).
 Signed contributor agreements are to be sent, via PDF, to <licensing@microfocus.com>.
 You will be notified via email when the agreement has been accepted by Micro Focus.  
 
