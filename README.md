@@ -1,6 +1,6 @@
 # SilkWebDriver-QuickStart-Java
 
-1. Download & Install [Silk WebDriver](2) for free
+1. Download & Install [Silk WebDriver][2] for free
 2. Start Silk WebDriver
 3. Start the recording
    * Select the browser
@@ -16,15 +16,16 @@
 6. Modify the script
    * Delect actions or
    * Reorder them
-7. Export the script
-   * To the clipboard or
-   * As java-file
-8. Check out the sample project
+7. Check out the sample project
    ```
 	 bash
 	 git clone git://github.com/MicroFocus/SilkWebDriver-QuickStart-Java.git
 	 ```
-9. Import the exported script and run it
+8. Open the project in [Eclipse](http://www.eclipse.org)
+9. Export the script
+   * To the clipboard or
+   * As java-file (ideally to the src/test/java folder of where the project was checked-out)
+10. Import the exported script and run it as JUnit Test
 
 ## License
 Scripts provided by Micro Focus are licensed under the [MIT license](LICENSE).
@@ -32,7 +33,7 @@ Scripts provided by Micro Focus are licensed under the [MIT license](LICENSE).
 ## Contribution
 You want to contribute to our sample scripts? Great!
 
-Sample scrips may be contributed after signing the [Micro Focus Individual Contributor License Agreement 1.0](Open Source Contribution Agreement 1.0.pdf).
+Sample scrips may be contributed after signing the [Micro Focus Individual Contributor License Agreement 1.0](../blob/master/Open Source Contribution Agreement 1.0.pdf).
 Signed contributor agreements are to be sent, via PDF, to <licensing@microfocus.com>.
 You will be notified via email when the agreement has been accepted by Micro Focus.  
 
