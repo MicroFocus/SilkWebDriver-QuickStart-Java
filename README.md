@@ -21,7 +21,7 @@
 	 bash
 	 git clone git://github.com/MicroFocus/SilkWebDriver-QuickStart-Java.git
 	 ```
-8. Open the project in [Eclipse](www.eclipse.org)
+8. Open the project in [Eclipse](http://www.eclipse.org)
 9. Export the script
    * To the clipboard or
    * As java-file (ideally to the src/test/java folder of where the project was checked-out)
